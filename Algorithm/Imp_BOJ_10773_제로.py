@@ -9,3 +9,5 @@ for i in range(k):
         stack.append(money)
 
 print(sum(stack))
+
+# 11
