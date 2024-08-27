@@ -26,4 +26,5 @@ used_down = [False] * (2 * (n - 1) + 1)
 cnt = 0
 
 sol(0)
+
 print(cnt)
