@@ -1,6 +1,7 @@
 def sol(k):
 
     global n, cnt
+
     if k == n:
         cnt += 1
         return
